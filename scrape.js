@@ -86,7 +86,7 @@ function parse(content) {
             mnc,
             country_iso: (m[3] != 'n/a') ? m[3].toUpperCase() : null,
             country_name,
-            code: calling_code,
+            country_code: calling_code,
             network_name: network
         };
     });
