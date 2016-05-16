@@ -5,7 +5,7 @@
         "country_iso": "DE",
         "country_name": "Germany",
         "code": "49",
-        "network_name": "Debitel"
+        "network_name": "Debitel, Talkline"
     },
     "20201": {
         "mcc": "202",
@@ -70,6 +70,14 @@
         "country_name": "Greece",
         "code": "30",
         "network_name": "Tim/Wind"
+    },
+    "20214": {
+        "mcc": "202",
+        "mnc": "14",
+        "country_iso": "GR",
+        "country_name": "Greece",
+        "code": "30",
+        "network_name": "CyTa Mobile"
     },
     "20402": {
         "mcc": "204",
@@ -701,7 +709,7 @@
         "country_iso": "ES",
         "country_name": "Spain",
         "code": "34",
-        "network_name": "Movistar"
+        "network_name": "Digi Spain Telecom SL"
     },
     "21423": {
         "mcc": "214",
@@ -847,6 +855,14 @@
         "code": "381",
         "network_name": "VIP Mobile"
     },
+    "22200": {
+        "mcc": "222",
+        "mnc": "00",
+        "country_iso": "IT",
+        "country_name": "Italy",
+        "code": "39",
+        "network_name": "Fix Line, Premium Number(s), VOIP Line"
+    },
     "22201": {
         "mcc": "222",
         "mnc": "01",
@@ -879,6 +895,14 @@
         "code": "39",
         "network_name": "Noverca Italia Srl"
     },
+    "22208": {
+        "mcc": "222",
+        "mnc": "08",
+        "country_iso": "IT",
+        "country_name": "Italy",
+        "code": "39",
+        "network_name": "Fastweb SpA"
+    },
     "22210": {
         "mcc": "222",
         "mnc": "10",
@@ -894,14 +918,6 @@
         "country_name": "Italy",
         "code": "39",
         "network_name": "RFI Rete Ferroviaria Italiana SpA"
-    },
-    "22233": {
-        "mcc": "222",
-        "mnc": "33",
-        "country_iso": "IT",
-        "country_name": "Italy",
-        "code": "39",
-        "network_name": "Hi3G"
     },
     "22234": {
         "mcc": "222",
@@ -1053,7 +1069,7 @@
         "country_iso": "CH",
         "country_name": "Switzerland",
         "code": "41",
-        "network_name": "Orange"
+        "network_name": "Salt/Orange"
     },
     "22805": {
         "mcc": "228",
@@ -1199,6 +1215,14 @@
         "code": "421",
         "network_name": "T-Mobile"
     },
+    "23103": {
+        "mcc": "231",
+        "mnc": "03",
+        "country_iso": "SK",
+        "country_name": "Slovakia",
+        "code": "421",
+        "network_name": "4Ka"
+    },
     "23104": {
         "mcc": "231",
         "mnc": "04",
@@ -1239,14 +1263,6 @@
         "code": "421",
         "network_name": "Zeleznice Slovenskej republiky (ZSR)"
     },
-    "23200": {
-        "mcc": "232",
-        "mnc": "00",
-        "country_iso": "AT",
-        "country_name": "Austria",
-        "code": "43",
-        "network_name": "Fix Line"
-    },
     "23201": {
         "mcc": "232",
         "mnc": "01",
@@ -1285,7 +1301,7 @@
         "country_iso": "AT",
         "country_name": "Austria",
         "code": "43",
-        "network_name": "A1/Orange/One Connect"
+        "network_name": "3/Orange/One Connect"
     },
     "23206": {
         "mcc": "232",
@@ -1293,7 +1309,7 @@
         "country_iso": "AT",
         "country_name": "Austria",
         "code": "43",
-        "network_name": "A1/Orange/One Connect"
+        "network_name": "3/Orange/One Connect"
     },
     "23207": {
         "mcc": "232",
@@ -1309,7 +1325,7 @@
         "country_iso": "AT",
         "country_name": "Austria",
         "code": "43",
-        "network_name": "Telefonica"
+        "network_name": "A1 MobilKom"
     },
     "23209": {
         "mcc": "232",
@@ -1341,7 +1357,7 @@
         "country_iso": "AT",
         "country_name": "Austria",
         "code": "43",
-        "network_name": "A1/Orange/One Connect"
+        "network_name": "3/Orange/One Connect"
     },
     "23214": {
         "mcc": "232",
@@ -1358,6 +1374,14 @@
         "country_name": "Austria",
         "code": "43",
         "network_name": "T-Mobile/Telering"
+    },
+    "23217": {
+        "mcc": "232",
+        "mnc": "17",
+        "country_iso": "AT",
+        "country_name": "Austria",
+        "code": "43",
+        "network_name": "Spusu/Mass Response"
     },
     "23401": {
         "mcc": "234",
@@ -1749,7 +1773,7 @@
         "country_iso": "DK",
         "country_name": "Denmark",
         "code": "45",
-        "network_name": "Hi3G"
+        "network_name": "H3G"
     },
     "23807": {
         "mcc": "238",
@@ -2517,7 +2541,7 @@
         "country_iso": "RU",
         "country_name": "Russian Federation",
         "code": "79",
-        "network_name": "LLC Ekaterinburg-2000"
+        "network_name": "MOTIV/LLC Ekaterinburg-2000"
     },
     "25039": {
         "mcc": "250",
@@ -2557,7 +2581,7 @@
         "country_iso": "RU",
         "country_name": "Russian Federation",
         "code": "79",
-        "network_name": "VimpelCom"
+        "network_name": "BeeLine/VimpelCom"
     },
     "25501": {
         "mcc": "255",
@@ -3101,7 +3125,7 @@
         "country_iso": "PT",
         "country_name": "Portugal",
         "code": "351",
-        "network_name": "Optimus"
+        "network_name": "NOS/Optimus"
     },
     "26804": {
         "mcc": "268",
@@ -3117,7 +3141,7 @@
         "country_iso": "PT",
         "country_name": "Portugal",
         "code": "351",
-        "network_name": "TMN"
+        "network_name": "MEO/TMN"
     },
     "26807": {
         "mcc": "268",
@@ -3125,7 +3149,7 @@
         "country_iso": "PT",
         "country_name": "Portugal",
         "code": "351",
-        "network_name": "Optimus"
+        "network_name": "NOS/Optimus"
     },
     "27001": {
         "mcc": "270",
@@ -3133,7 +3157,7 @@
         "country_iso": "LU",
         "country_name": "Luxembourg",
         "code": "352",
-        "network_name": "P+T LUXGSM"
+        "network_name": "P+T/Post LUXGSM"
     },
     "27077": {
         "mcc": "270",
@@ -3165,7 +3189,7 @@
         "country_iso": "IE",
         "country_name": "Ireland",
         "code": "353",
-        "network_name": "O2/Digifone"
+        "network_name": "Three/O2/Digifone"
     },
     "27203": {
         "mcc": "272",
@@ -3189,7 +3213,7 @@
         "country_iso": "IE",
         "country_name": "Ireland",
         "code": "353",
-        "network_name": "H3G"
+        "network_name": "Three/H3G"
     },
     "27207": {
         "mcc": "272",
@@ -3301,7 +3325,7 @@
         "country_iso": "AL",
         "country_name": "Albania",
         "code": "355",
-        "network_name": "AMC Mobil"
+        "network_name": "AMC/Cosmote"
     },
     "27602": {
         "mcc": "276",
@@ -3469,7 +3493,7 @@
         "country_iso": "BG",
         "country_name": "Bulgaria",
         "code": "359",
-        "network_name": "Cosmo Mobile EAD/Globul"
+        "network_name": "Telenor/Cosmo/Globul"
     },
     "28406": {
         "mcc": "284",
@@ -3613,7 +3637,7 @@
         "country_iso": "SI",
         "country_name": "Slovenia",
         "code": "386",
-        "network_name": "TusMobil/VEGA"
+        "network_name": "Telemach/TusMobil/VEGA"
     },
     "29401": {
         "mcc": "294",
@@ -3629,7 +3653,7 @@
         "country_iso": "MK",
         "country_name": "Macedonia",
         "code": "389",
-        "network_name": "MTS/Cosmofone"
+        "network_name": "ONE/Cosmofone"
     },
     "29403": {
         "mcc": "294",
@@ -3645,7 +3669,7 @@
         "country_iso": "MK",
         "country_name": "Macedonia",
         "code": "389",
-        "network_name": "MTS/Cosmofone"
+        "network_name": "ONE/Cosmofone"
     },
     "29501": {
         "mcc": "295",
@@ -3669,7 +3693,7 @@
         "country_iso": "LI",
         "country_name": "Liechtenstein",
         "code": "423",
-        "network_name": "Mobilkom AG"
+        "network_name": "Telecom FL1 AG"
     },
     "29506": {
         "mcc": "295",
@@ -3701,7 +3725,7 @@
         "country_iso": "ME",
         "country_name": "Montenegro",
         "code": "382",
-        "network_name": "Promonte GSM"
+        "network_name": "Telenor/Promonte GSM"
     },
     "29702": {
         "mcc": "297",
@@ -3828,16 +3852,8 @@
         "mnc": "11",
         "country_iso": "PR",
         "country_name": "Puerto Rico",
-        "code": "1787",
+        "code": "",
         "network_name": "Puerto Rico Telephone Company Inc. (PRTC)"
-    },
-    "33400": {
-        "mcc": "334",
-        "mnc": "00",
-        "country_iso": "MX",
-        "country_name": "Mexico",
-        "code": "52",
-        "network_name": "Axtel"
     },
     "33401": {
         "mcc": "334",
@@ -3870,6 +3886,14 @@
         "country_name": "Mexico",
         "code": "52",
         "network_name": "IUSACell/UneFon"
+    },
+    "33409": {
+        "mcc": "334",
+        "mnc": "09",
+        "country_iso": "MX",
+        "country_name": "Mexico",
+        "code": "52",
+        "network_name": "NEXTEL"
     },
     "33450": {
         "mcc": "334",
@@ -3909,7 +3933,7 @@
         "country_iso": "GP",
         "country_name": "Guadeloupe",
         "code": "590",
-        "network_name": "Dauphin Telecom SU (Guadeloupe Telecom) (Guadeloupe"
+        "network_name": "Dauphin Telecom SU (Guadeloupe Telecom)"
     },
     "34010": {
         "mcc": "340",
@@ -4294,6 +4318,14 @@
         "country_name": "India",
         "code": "91",
         "network_name": "Reliance Telecom Private"
+    },
+    "40410": {
+        "mcc": "404",
+        "mnc": "10",
+        "country_iso": "IN",
+        "country_name": "India",
+        "code": "91",
+        "network_name": "Bharti Airtel Limited (Delhi)"
     },
     "40411": {
         "mcc": "404",
@@ -4767,14 +4799,6 @@
         "code": "91",
         "network_name": "Fascel Limited"
     },
-    "40510": {
-        "mcc": "405",
-        "mnc": "10",
-        "country_iso": "IN",
-        "country_name": "India",
-        "code": "91",
-        "network_name": "Bharti Airtel Limited (Delhi)"
-    },
     "40553": {
         "mcc": "405",
         "mnc": "53",
@@ -4845,7 +4869,7 @@
         "country_iso": "AF",
         "country_name": "Afghanistan",
         "code": "93",
-        "network_name": "Roshan"
+        "network_name": "Roshan/TDCA"
     },
     "41240": {
         "mcc": "412",
@@ -4923,9 +4947,25 @@
         "mcc": "414",
         "mnc": "01",
         "country_iso": "MM",
-        "country_name": "Burma",
+        "country_name": "Myanmar (Burma)",
         "code": "95",
         "network_name": "Myanmar Post & Teleco."
+    },
+    "41405": {
+        "mcc": "414",
+        "mnc": "05",
+        "country_iso": "MM",
+        "country_name": "Myanmar (Burma)",
+        "code": "95",
+        "network_name": "Oreedoo"
+    },
+    "41406": {
+        "mcc": "414",
+        "mnc": "06",
+        "country_iso": "MM",
+        "country_name": "Myanmar (Burma)",
+        "code": "95",
+        "network_name": "Telenor"
     },
     "41501": {
         "mcc": "415",
@@ -4941,7 +4981,7 @@
         "country_iso": "LB",
         "country_name": "Lebanon",
         "code": "961",
-        "network_name": "MIC2/LibanCell"
+        "network_name": "MIC2/LibanCell/MTC"
     },
     "41532": {
         "mcc": "415",
@@ -4981,7 +5021,7 @@
         "country_iso": "LB",
         "country_name": "Lebanon",
         "code": "961",
-        "network_name": "MIC2/LibanCell"
+        "network_name": "MIC2/LibanCell/MTC"
     },
     "41537": {
         "mcc": "415",
@@ -4989,7 +5029,7 @@
         "country_iso": "LB",
         "country_name": "Lebanon",
         "code": "961",
-        "network_name": "MIC2/LibanCell"
+        "network_name": "MIC2/LibanCell/MTC"
     },
     "41538": {
         "mcc": "415",
@@ -4997,7 +5037,7 @@
         "country_iso": "LB",
         "country_name": "Lebanon",
         "code": "961",
-        "network_name": "MIC2/LibanCell"
+        "network_name": "MIC2/LibanCell/MTC"
     },
     "41539": {
         "mcc": "415",
@@ -5005,7 +5045,7 @@
         "country_iso": "LB",
         "country_name": "Lebanon",
         "code": "961",
-        "network_name": "MIC2/LibanCell"
+        "network_name": "MIC2/LibanCell/MTC"
     },
     "41601": {
         "mcc": "416",
@@ -5085,7 +5125,7 @@
         "country_iso": "IQ",
         "country_name": "Iraq",
         "code": "964",
-        "network_name": "ZAIN/Atheer"
+        "network_name": "ZAIN/Atheer/Orascom"
     },
     "41830": {
         "mcc": "418",
@@ -5141,7 +5181,7 @@
         "country_iso": "KW",
         "country_name": "Kuwait",
         "code": "965",
-        "network_name": "Wantaniya"
+        "network_name": "Wataniya"
     },
     "41904": {
         "mcc": "419",
@@ -5174,6 +5214,14 @@
         "country_name": "Saudi Arabia",
         "code": "966",
         "network_name": "Zain"
+    },
+    "42005": {
+        "mcc": "420",
+        "mnc": "05",
+        "country_iso": "SA",
+        "country_name": "Saudi Arabia",
+        "code": "966",
+        "network_name": "Virgin Mobile"
     },
     "42007": {
         "mcc": "420",
@@ -5327,6 +5375,14 @@
         "code": "972",
         "network_name": "Rami Levy Hashikma Marketing Communications Ltd"
     },
+    "42519": {
+        "mcc": "425",
+        "mnc": "19",
+        "country_iso": "IL",
+        "country_name": "Israel",
+        "code": "972",
+        "network_name": "Telzar/AZI"
+    },
     "42577": {
         "mcc": "425",
         "mnc": "77",
@@ -5453,7 +5509,7 @@
         "country_iso": "IR",
         "country_name": "Iran",
         "code": "98",
-        "network_name": "TCI / MCI"
+        "network_name": "MCI/TCI"
     },
     "43214": {
         "mcc": "432",
@@ -5470,6 +5526,14 @@
         "country_name": "Iran",
         "code": "98",
         "network_name": "Mobile Telecommunications Company of Esfahan JV-PJS (MTCE)"
+    },
+    "43220": {
+        "mcc": "432",
+        "mnc": "20",
+        "country_iso": "IR",
+        "country_name": "Iran",
+        "code": "98",
+        "network_name": "Rightel"
     },
     "43232": {
         "mcc": "432",
@@ -5621,7 +5685,7 @@
         "country_iso": "TM",
         "country_name": "Turkmenistan",
         "code": "993",
-        "network_name": "Barash Communication"
+        "network_name": "MTS/Barash Communication"
     },
     "43802": {
         "mcc": "438",
@@ -6831,6 +6895,14 @@
         "code": "852",
         "network_name": "HKT/PCCW"
     },
+    "45428": {
+        "mcc": "454",
+        "mnc": "28",
+        "country_iso": "HK",
+        "country_name": "Hongkong, China",
+        "code": "852",
+        "network_name": "China Mobile/Peoples"
+    },
     "45429": {
         "mcc": "454",
         "mnc": "29",
@@ -6885,7 +6957,7 @@
         "country_iso": "MO",
         "country_name": "Macao, China",
         "code": "853",
-        "network_name": "Hutchison Telephone (Macau) Company Ltd"
+        "network_name": "Hutchison Telephone Co. Ltd"
     },
     "45504": {
         "mcc": "455",
@@ -6901,7 +6973,7 @@
         "country_iso": "MO",
         "country_name": "Macao, China",
         "code": "853",
-        "network_name": "Hutchison Telephone (Macau) Company Ltd"
+        "network_name": "Hutchison Telephone Co. Ltd"
     },
     "45506": {
         "mcc": "455",
@@ -6973,7 +7045,7 @@
         "country_iso": "KH",
         "country_name": "Cambodia",
         "code": "855",
-        "network_name": "Sotelco Ltd (Beeline Cambodia)"
+        "network_name": "Sotelco/Beeline"
     },
     "45618": {
         "mcc": "456",
@@ -6981,7 +7053,7 @@
         "country_iso": "KH",
         "country_name": "Cambodia",
         "code": "855",
-        "network_name": "MFone/Camshin"
+        "network_name": "MFone/Camshin/Cellcard"
     },
     "45701": {
         "mcc": "457",
@@ -7013,7 +7085,7 @@
         "country_iso": "LA",
         "country_name": "Laos P.D.R.",
         "code": "856",
-        "network_name": "Tigo/Millicom"
+        "network_name": "Beeline/Tigo/Millicom"
     },
     "46000": {
         "mcc": "460",
@@ -7181,7 +7253,7 @@
         "country_iso": "TW",
         "country_name": "Taiwan",
         "code": "886",
-        "network_name": "VIBO"
+        "network_name": "T-Star/VIBO"
     },
     "46692": {
         "mcc": "466",
@@ -7237,7 +7309,7 @@
         "country_iso": "BD",
         "country_name": "Bangladesh",
         "code": "880",
-        "network_name": "Orascom"
+        "network_name": "Orascom/Banglalink"
     },
     "47004": {
         "mcc": "470",
@@ -7559,6 +7631,14 @@
         "code": "62",
         "network_name": "Indosat/Satelindo/M3"
     },
+    "51007": {
+        "mcc": "510",
+        "mnc": "07",
+        "country_iso": "ID",
+        "country_name": "Indonesia",
+        "code": "62",
+        "network_name": "Flexi (PT Telkom) (CDMA)"
+    },
     "51008": {
         "mcc": "510",
         "mnc": "08",
@@ -7622,6 +7702,14 @@
         "country_name": "Indonesia",
         "code": "62",
         "network_name": "H3G CP"
+    },
+    "51099": {
+        "mcc": "510",
+        "mnc": "99",
+        "country_iso": "ID",
+        "country_name": "Indonesia",
+        "code": "62",
+        "network_name": "Esia (PT Bakrie Telecom) (CDMA)"
     },
     "51401": {
         "mcc": "514",
@@ -7835,7 +7923,7 @@
         "mcc": "528",
         "mnc": "01",
         "country_iso": "BN",
-        "country_name": "Brunei",
+        "country_name": "Brunei Darussalam",
         "code": "673",
         "network_name": "Telekom Brunei Bhd (TelBru)"
     },
@@ -7843,7 +7931,7 @@
         "mcc": "528",
         "mnc": "02",
         "country_iso": "BN",
-        "country_name": "Brunei",
+        "country_name": "Brunei Darussalam",
         "code": "673",
         "network_name": "b-mobile"
     },
@@ -7851,7 +7939,7 @@
         "mcc": "528",
         "mnc": "11",
         "country_iso": "BN",
-        "country_name": "Brunei",
+        "country_name": "Brunei Darussalam",
         "code": "673",
         "network_name": "Datastream (DTSCom)"
     },
@@ -8045,7 +8133,7 @@
         "country_iso": "PF",
         "country_name": "French Polynesia",
         "code": "689",
-        "network_name": "Tikiphone"
+        "network_name": "Vini/Tikiphone"
     },
     "54801": {
         "mcc": "548",
@@ -8100,7 +8188,7 @@
         "mnc": "01",
         "country_iso": "TV",
         "country_name": "Tuvalu",
-        "code": "688",
+        "code": "",
         "network_name": "Tuvalu Telecommunication Corporation (TTC)"
     },
     "55501": {
@@ -8293,7 +8381,7 @@
         "country_iso": "SN",
         "country_name": "Senegal",
         "code": "221",
-        "network_name": "Sentel GSM"
+        "network_name": "TIGO/Sentel GSM"
     },
     "60803": {
         "mcc": "608",
@@ -8349,7 +8437,7 @@
         "country_iso": "GN",
         "country_name": "Guinea",
         "code": "224",
-        "network_name": "Orange/Spacetel"
+        "network_name": "Orange/Sonatel/Spacetel"
     },
     "61102": {
         "mcc": "611",
@@ -8373,7 +8461,7 @@
         "country_iso": "GN",
         "country_name": "Guinea",
         "code": "224",
-        "network_name": "Areeba - MTN"
+        "network_name": "MTN/Areeba"
     },
     "61105": {
         "mcc": "611",
@@ -8607,14 +8695,6 @@
         "code": "231",
         "network_name": "Libercell"
     },
-    "61803": {
-        "mcc": "618",
-        "mnc": "03",
-        "country_iso": "LR",
-        "country_name": "Liberia",
-        "code": "231",
-        "network_name": "Celcom"
-    },
     "61804": {
         "mcc": "618",
         "mnc": "04",
@@ -8629,7 +8709,7 @@
         "country_iso": "LR",
         "country_name": "Liberia",
         "code": "231",
-        "network_name": "Celcom"
+        "network_name": "CELLCOM"
     },
     "61820": {
         "mcc": "618",
@@ -8645,7 +8725,7 @@
         "country_iso": "SL",
         "country_name": "Sierra Leone",
         "code": "232",
-        "network_name": "Zain/Celtel"
+        "network_name": "Airtel/Zain/Celtel"
     },
     "61902": {
         "mcc": "619",
@@ -8965,7 +9045,7 @@
         "country_iso": "CG",
         "country_name": "Congo, Republic",
         "code": "242",
-        "network_name": "Airtel Congo SA"
+        "network_name": "Airtel SA"
     },
     "62902": {
         "mcc": "629",
@@ -8973,7 +9053,7 @@
         "country_iso": "CG",
         "country_name": "Congo, Republic",
         "code": "242",
-        "network_name": "Zain/Celtel"
+        "network_name": "Azur SA (ETC)"
     },
     "62907": {
         "mcc": "629",
@@ -9005,7 +9085,7 @@
         "country_iso": "CD",
         "country_name": "Congo, Dem. Rep.",
         "code": "243",
-        "network_name": "ZAIN CelTel"
+        "network_name": "ZAIN"
     },
     "63005": {
         "mcc": "630",
@@ -9038,6 +9118,14 @@
         "country_name": "Congo, Dem. Rep.",
         "code": "243",
         "network_name": "TIGO/Oasis"
+    },
+    "63090": {
+        "mcc": "630",
+        "mnc": "90",
+        "country_iso": "CD",
+        "country_name": "Congo, Dem. Rep.",
+        "code": "243",
+        "network_name": "Africell"
     },
     "63102": {
         "mcc": "631",
@@ -9461,7 +9549,7 @@
         "country_iso": "BI",
         "country_name": "Burundi",
         "code": "257",
-        "network_name": "Spacetel / Econet"
+        "network_name": "Spacetel / Econet / Leo"
     },
     "64202": {
         "mcc": "642",
@@ -9493,7 +9581,7 @@
         "country_iso": "BI",
         "country_name": "Burundi",
         "code": "257",
-        "network_name": "HiTs Telecom"
+        "network_name": "Lumitel/Viettel"
     },
     "64282": {
         "mcc": "642",
@@ -9501,7 +9589,7 @@
         "country_iso": "BI",
         "country_name": "Burundi",
         "code": "257",
-        "network_name": "U-COM"
+        "network_name": "Spacetel / Econet / Leo"
     },
     "64301": {
         "mcc": "643",
@@ -9549,7 +9637,7 @@
         "country_iso": "ZM",
         "country_name": "Zambia",
         "code": "260",
-        "network_name": "Cell Z/MTS"
+        "network_name": "Zamtel/Cell Z/MTS"
     },
     "64601": {
         "mcc": "646",
@@ -9669,7 +9757,7 @@
         "country_iso": "MW",
         "country_name": "Malawi",
         "code": "265",
-        "network_name": "Zain/Celtel ltd."
+        "network_name": "Airtel/Zain/Celtel ltd."
     },
     "65101": {
         "mcc": "651",
@@ -9709,7 +9797,7 @@
         "country_iso": "BW",
         "country_name": "Botswana",
         "code": "267",
-        "network_name": "beMOBILE"
+        "network_name": "BeMOBILE"
     },
     "65301": {
         "mcc": "653",
@@ -9812,7 +9900,7 @@
         "mnc": "02",
         "country_iso": "SS",
         "country_name": "South Sudan (Republic of)",
-        "code": "211",
+        "code": "",
         "network_name": "MTN South Sudan (South Sudan"
     },
     "65903": {
@@ -9820,7 +9908,7 @@
         "mnc": "03",
         "country_iso": "SS",
         "country_name": "South Sudan (Republic of)",
-        "code": "211",
+        "code": "",
         "network_name": "Gemtel Ltd (South Sudan"
     },
     "65904": {
@@ -9828,7 +9916,7 @@
         "mnc": "04",
         "country_iso": "SS",
         "country_name": "South Sudan (Republic of)",
-        "code": "211",
+        "code": "",
         "network_name": "Network of The World Ltd (NOW) (South Sudan"
     },
     "65906": {
@@ -9836,7 +9924,7 @@
         "mnc": "06",
         "country_iso": "SS",
         "country_name": "South Sudan (Republic of)",
-        "code": "211",
+        "code": "",
         "network_name": "Zain South Sudan (South Sudan"
     },
     "70267": {
@@ -10021,7 +10109,7 @@
         "country_iso": "PA",
         "country_name": "Panama",
         "code": "507",
-        "network_name": "Cable & Wireless S.A."
+        "network_name": "Cable & W./Mas Movil"
     },
     "71402": {
         "mcc": "714",
@@ -10086,6 +10174,22 @@
         "country_name": "Peru",
         "code": "51",
         "network_name": "Claro /Amer.Mov./TIM"
+    },
+    "71615": {
+        "mcc": "716",
+        "mnc": "15",
+        "country_iso": "PE",
+        "country_name": "Peru",
+        "code": "51",
+        "network_name": "Viettel Mobile"
+    },
+    "71617": {
+        "mcc": "716",
+        "mnc": "17",
+        "country_iso": "PE",
+        "country_name": "Peru",
+        "code": "51",
+        "network_name": "Nextel"
     },
     "71620": {
         "mcc": "716",
@@ -10295,6 +10399,14 @@
         "code": "55",
         "network_name": "Nextel (Telet)"
     },
+    "72454": {
+        "mcc": "724",
+        "mnc": "54",
+        "country_iso": "BR",
+        "country_name": "Brazil",
+        "code": "55",
+        "network_name": "PORTO SEGURO TELECOMUNICACOES"
+    },
     "73000": {
         "mcc": "730",
         "mnc": "00",
@@ -10381,7 +10493,7 @@
         "country_iso": "CL",
         "country_name": "Chile",
         "code": "56",
-        "network_name": "Entel PCS"
+        "network_name": "Entel Telefonia"
     },
     "73011": {
         "mcc": "730",
@@ -12532,7 +12644,7 @@
         "mnc": "110",
         "country_iso": "PR",
         "country_name": "Puerto Rico",
-        "code": "1787",
+        "code": "",
         "network_name": "Puerto Rico Telephone Company Inc. (PRTC)"
     },
     "334010": {
@@ -12895,9 +13007,9 @@
         "code": "1767",
         "network_name": "C & W"
     },
-    "374129": {
+    "374120": {
         "mcc": "374",
-        "mnc": "129",
+        "mnc": "120",
         "country_iso": "TT",
         "country_name": "Trinidad and Tobago",
         "code": "1868",
@@ -12924,7 +13036,7 @@
         "mnc": "050",
         "country_iso": "TC",
         "country_name": "Turks and Caicos Islands",
-        "code": "1649",
+        "code": "",
         "network_name": "Digicel TCI Ltd"
     },
     "376350": {
@@ -12932,7 +13044,7 @@
         "mnc": "350",
         "country_iso": "TC",
         "country_name": "Turks and Caicos Islands",
-        "code": "1649",
+        "code": "",
         "network_name": "Cable & Wireless (TCI) Ltd"
     },
     "376352": {
@@ -12940,8 +13052,24 @@
         "mnc": "352",
         "country_iso": "TC",
         "country_name": "Turks and Caicos Islands",
-        "code": "1649",
+        "code": "",
         "network_name": "IslandCom Communications Ltd."
+    },
+    "404045": {
+        "mcc": "404",
+        "mnc": "045",
+        "country_iso": "IN",
+        "country_name": "India",
+        "code": "91",
+        "network_name": "Bharti Airtel Limited (Karnataka) (India)"
+    },
+    "405034": {
+        "mcc": "405",
+        "mnc": "034",
+        "country_iso": "IN",
+        "country_name": "India",
+        "code": "91",
+        "network_name": "TATA / Karnataka"
     },
     "467193": {
         "mcc": "467",
