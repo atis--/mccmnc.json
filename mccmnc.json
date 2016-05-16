@@ -3852,7 +3852,7 @@
         "mnc": "11",
         "country_iso": "PR",
         "country_name": "Puerto Rico",
-        "country_code": "",
+        "country_code": "1",
         "network_name": "Puerto Rico Telephone Company Inc. (PRTC)"
     },
     "33401": {
@@ -8188,7 +8188,7 @@
         "mnc": "01",
         "country_iso": "TV",
         "country_name": "Tuvalu",
-        "country_code": "",
+        "country_code": "688",
         "network_name": "Tuvalu Telecommunication Corporation (TTC)"
     },
     "55501": {
@@ -9900,7 +9900,7 @@
         "mnc": "02",
         "country_iso": "SS",
         "country_name": "South Sudan (Republic of)",
-        "country_code": "",
+        "country_code": "211",
         "network_name": "MTN South Sudan (South Sudan"
     },
     "65903": {
@@ -9908,7 +9908,7 @@
         "mnc": "03",
         "country_iso": "SS",
         "country_name": "South Sudan (Republic of)",
-        "country_code": "",
+        "country_code": "211",
         "network_name": "Gemtel Ltd (South Sudan"
     },
     "65904": {
@@ -9916,7 +9916,7 @@
         "mnc": "04",
         "country_iso": "SS",
         "country_name": "South Sudan (Republic of)",
-        "country_code": "",
+        "country_code": "211",
         "network_name": "Network of The World Ltd (NOW) (South Sudan"
     },
     "65906": {
@@ -9924,7 +9924,7 @@
         "mnc": "06",
         "country_iso": "SS",
         "country_name": "South Sudan (Republic of)",
-        "country_code": "",
+        "country_code": "211",
         "network_name": "Zain South Sudan (South Sudan"
     },
     "70267": {
@@ -12644,7 +12644,7 @@
         "mnc": "110",
         "country_iso": "PR",
         "country_name": "Puerto Rico",
-        "country_code": "",
+        "country_code": "1",
         "network_name": "Puerto Rico Telephone Company Inc. (PRTC)"
     },
     "334010": {
@@ -13036,7 +13036,7 @@
         "mnc": "050",
         "country_iso": "TC",
         "country_name": "Turks and Caicos Islands",
-        "country_code": "",
+        "country_code": "1649",
         "network_name": "Digicel TCI Ltd"
     },
     "376350": {
@@ -13044,7 +13044,7 @@
         "mnc": "350",
         "country_iso": "TC",
         "country_name": "Turks and Caicos Islands",
-        "country_code": "",
+        "country_code": "1649",
         "network_name": "Cable & Wireless (TCI) Ltd"
     },
     "376352": {
@@ -13052,7 +13052,7 @@
         "mnc": "352",
         "country_iso": "TC",
         "country_name": "Turks and Caicos Islands",
-        "country_code": "",
+        "country_code": "1649",
         "network_name": "IslandCom Communications Ltd."
     },
     "404045": {

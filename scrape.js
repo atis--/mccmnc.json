@@ -28,6 +28,16 @@ request
         parse(res.text);
     });
 
+//
+// provide country calling codes for some cases where they're missing
+//
+const calling_codes = {
+    PR: '1',    // Puerto Rico
+    SS: '211',  // South Sudan
+    TC: '1649', // Turks and Caicos Islands
+    TV: '688',  // Tuvalu
+};
+
 function parse(content) {
     // parse html page source with regexp
     const regex = new RegExp(
@@ -64,30 +74,35 @@ function parse(content) {
         const mcc = m[1];
         const mnc = (m[2] != 'n/a') ? m[2] : '';
         const mccmnc = mcc + mnc;
+        const country_iso = (m[3] != 'n/a') ? m[3].toUpperCase() : null;
         const country_name = trim(m[4]);
-        const calling_code = trim(m[5]);
-        const network = trim(m[6]);
+        const network_name = trim(m[6]);
+        let country_code = trim(m[5]);
 
         // check for dupes, concatenate network names
         if (result[mccmnc]) {
             console.error(`Duplicate entry for "${country_name}" (MCCMNC=${mccmnc}), concat `+
-                          `"${result[mccmnc].network_name}" with "${network}"`);
-            result[mccmnc].network_name += `, ${network}`;
+                          `"${result[mccmnc].network_name}" with "${network_name}"`);
+            result[mccmnc].network_name += `, ${network_name}`;
             return;
         }
 
         // country calling code is sometimes empty
-        if (calling_code.length == 0) 
-            console.error(`Missing country calling code for "${country_name}" (MCCMNC=${mccmnc})`);
+        if (country_code.length == 0) {
+            country_code = calling_codes[country_iso] || null;
+            console.error(`Missing country calling code for "${country_name}" `+
+                          `(MCCMNC=${mccmnc}), using `+
+                          `${country_code !== null ? '"'+country_code+'"' : '(null)'}`);
+        }
 
         // store entry
         result[mccmnc] = {
             mcc,
             mnc,
-            country_iso: (m[3] != 'n/a') ? m[3].toUpperCase() : null,
+            country_iso,
             country_name,
-            country_code: calling_code,
-            network_name: network
+            country_code,
+            network_name
         };
     });
 
