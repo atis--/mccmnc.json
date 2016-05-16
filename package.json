@@ -12,5 +12,9 @@
     "JSON"
   ],
   "author": "Atis",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:atis--/mccmnc.json.git"
+  }
 }
