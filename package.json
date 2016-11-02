@@ -1,6 +1,6 @@
 {
   "name": "mccmnc.json",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Mobile country and network codes in JSON format. Scraped from http://mcc-mnc.com.",
   "main": "mccmnc.json",
   "scripts": {
