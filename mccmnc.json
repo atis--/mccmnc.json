@@ -431,6 +431,14 @@
         "country_code": "33",
         "network_name": "Lliad/FREE Mobile"
     },
+    "20817": {
+        "mcc": "208",
+        "mnc": "17",
+        "country_iso": "FR",
+        "country_name": "France",
+        "country_code": "33",
+        "network_name": "Legos - Local Exchange Global Operation Services SA"
+    },
     "20820": {
         "mcc": "208",
         "mnc": "20",
@@ -1781,7 +1789,7 @@
         "country_iso": "DK",
         "country_name": "Denmark",
         "country_code": "45",
-        "network_name": ""
+        "network_name": "Mundio Mobile"
     },
     "23810": {
         "mcc": "238",
@@ -3071,6 +3079,22 @@
         "country_code": "49",
         "network_name": "E-Plus"
     },
+    "26220": {
+        "mcc": "262",
+        "mnc": "20",
+        "country_iso": "DE",
+        "country_name": "Germany",
+        "country_code": "49",
+        "network_name": "E-Plus"
+    },
+    "26242": {
+        "mcc": "262",
+        "mnc": "42",
+        "country_iso": "DE",
+        "country_name": "Germany",
+        "country_code": "49",
+        "network_name": "T-mobile/Telekom"
+    },
     "26243": {
         "mcc": "262",
         "mnc": "43",
@@ -4183,6 +4207,14 @@
         "country_code": "509",
         "network_name": "National Telecom SA (NatCom)"
     },
+    "37412": {
+        "mcc": "374",
+        "mnc": "12",
+        "country_iso": "TT",
+        "country_name": "Trinidad and Tobago",
+        "country_code": "1868",
+        "network_name": "Bmobile/TSTT"
+    },
     "37650": {
         "mcc": "376",
         "mnc": "50",
@@ -4863,6 +4895,14 @@
         "country_code": "93",
         "network_name": "Afghan Wireless/AWCC"
     },
+    "41203": {
+        "mcc": "412",
+        "mnc": "03",
+        "country_iso": "AF",
+        "country_name": "Afghanistan",
+        "country_code": "93",
+        "network_name": "WaselTelecom (WT)"
+    },
     "41220": {
         "mcc": "412",
         "mnc": "20",
@@ -4933,7 +4973,7 @@
         "country_iso": "LK",
         "country_name": "Sri Lanka",
         "country_code": "94",
-        "network_name": "Bharti Airtel"
+        "network_name": "Airtel"
     },
     "41308": {
         "mcc": "413",
@@ -5421,7 +5461,7 @@
         "country_iso": "QA",
         "country_name": "Qatar",
         "country_code": "974",
-        "network_name": "Qtel"
+        "network_name": "Ooredoo/Qtel"
     },
     "42702": {
         "mcc": "427",
@@ -5693,7 +5733,7 @@
         "country_iso": "TM",
         "country_name": "Turkmenistan",
         "country_code": "993",
-        "network_name": "TM-Cell"
+        "network_name": "Altyn Asyr/TM-Cell"
     },
     "44000": {
         "mcc": "440",
@@ -5701,7 +5741,7 @@
         "country_iso": "JP",
         "country_name": "Japan",
         "country_code": "81",
-        "network_name": "eMobile"
+        "network_name": "Y-Mobile"
     },
     "44001": {
         "mcc": "440",
@@ -8541,7 +8581,7 @@
         "country_iso": "BF",
         "country_name": "Burkina Faso",
         "country_code": "226",
-        "network_name": "AirTel/ZAIN/CelTel"
+        "network_name": "Airtel/ZAIN/CelTel"
     },
     "61303": {
         "mcc": "613",
@@ -8565,7 +8605,7 @@
         "country_iso": "NE",
         "country_name": "Niger",
         "country_code": "227",
-        "network_name": "Zain/CelTel"
+        "network_name": "Airtel/Zain/CelTel"
     },
     "61403": {
         "mcc": "614",
@@ -8885,7 +8925,7 @@
         "country_iso": "TD",
         "country_name": "Chad",
         "country_code": "235",
-        "network_name": "Zain/Airtel/Celtel"
+        "network_name": "Airtel/ZAIN/Celtel"
     },
     "62202": {
         "mcc": "622",
@@ -9029,7 +9069,7 @@
         "country_iso": "GA",
         "country_name": "Gabon",
         "country_code": "241",
-        "network_name": "ZAIN/Celtel Gabon S.A."
+        "network_name": "Airtel/ZAIN/Celtel Gabon S.A."
     },
     "62804": {
         "mcc": "628",
@@ -9085,7 +9125,7 @@
         "country_iso": "CD",
         "country_name": "Congo, Dem. Rep.",
         "country_code": "243",
-        "network_name": "ZAIN"
+        "network_name": "Airtel/ZAIN"
     },
     "63005": {
         "mcc": "630",
@@ -9285,7 +9325,7 @@
         "country_iso": "RW",
         "country_name": "Rwanda",
         "country_code": "250",
-        "network_name": "Airtel Rwanda Ltd"
+        "network_name": "Airtel"
     },
     "63601": {
         "mcc": "636",
@@ -9373,7 +9413,7 @@
         "country_iso": "KE",
         "country_name": "Kenya",
         "country_code": "254",
-        "network_name": "Zain/Celtel Ltd."
+        "network_name": "Airtel/Zain/Celtel Ltd."
     },
     "63905": {
         "mcc": "639",
@@ -9429,7 +9469,7 @@
         "country_iso": "TZ",
         "country_name": "Tanzania",
         "country_code": "255",
-        "network_name": "ZAIN/Celtel"
+        "network_name": "Airtel/ZAIN/Celtel"
     },
     "64006": {
         "mcc": "640",
@@ -9477,7 +9517,7 @@
         "country_iso": "UG",
         "country_name": "Uganda",
         "country_code": "256",
-        "network_name": "Celtel"
+        "network_name": "Airtel/Celtel"
     },
     "64110": {
         "mcc": "641",
@@ -9645,7 +9685,7 @@
         "country_iso": "MG",
         "country_name": "Madagascar",
         "country_code": "261",
-        "network_name": "MADACOM"
+        "network_name": "Airtel/MADACOM"
     },
     "64602": {
         "mcc": "646",
@@ -10782,6 +10822,14 @@
         "country_name": "Satellite Networks",
         "country_code": "870",
         "network_name": "AeroMobile"
+    },
+    "242017": {
+        "mcc": "242",
+        "mnc": "017",
+        "country_iso": "NO",
+        "country_name": "Norway",
+        "country_code": "47",
+        "network_name": "Ventelo AS"
     },
     "302220": {
         "mcc": "302",
@@ -13118,6 +13166,14 @@
         "country_name": "Malaysia",
         "country_code": "60",
         "network_name": "Samata Communications Sdn Bhd"
+    },
+    "502195": {
+        "mcc": "502",
+        "mnc": "195",
+        "country_iso": "MY",
+        "country_name": "Malaysia",
+        "country_code": "60",
+        "network_name": "XOX Com Sdn Bhd"
     },
     "714020": {
         "mcc": "714",
